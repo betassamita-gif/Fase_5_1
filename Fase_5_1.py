@@ -10,8 +10,3 @@ Menu = [
     ["Ramen", "Comida Japonesa", 32000],
     ["Lasagna", "Comida Italiana", 25000]
 	]
-
-Categoria_Objetivo = "Comida Mexicana"
-umbral_descuento = 19000
-def calcular_precio_final(categoria, precio_base):
-	    descuento = 0.15
